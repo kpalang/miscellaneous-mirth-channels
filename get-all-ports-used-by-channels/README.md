@@ -21,10 +21,13 @@ Note this is how I use this channel. You can do whatever you like
 
 ## Images
 Image 1: Macro selection
+
 ![Macro selection](images/macro_selection.png)
 
 Image 2: Macro url
+
 ![Macro URL](images/macro_url.png)
 
 Image 3: Profit
+
 ![Profit](images/profit.png)
